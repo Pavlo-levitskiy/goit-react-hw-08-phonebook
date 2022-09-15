@@ -1,0 +1,14 @@
+.UserHeader {
+  width: 100%;
+  padding: 20px;
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.UserWrap {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px;
+}

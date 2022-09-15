@@ -1,0 +1,14 @@
+.LoginForm {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  max-width: 360px;
+  padding: 30px;
+  margin: 0 auto;
+}
+
+.LoginInput {
+  width: 100%;
+  max-width: 240px;
+  margin-bottom: 20px;
+}
